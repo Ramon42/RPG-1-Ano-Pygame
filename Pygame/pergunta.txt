@@ -1,0 +1,279 @@
+﻿O que sao circuitos semelhantes
+A)	Circuitos logicos iguais e saidas diferentes
+B)	Circuitos logicos e saidas iguais
+C)	Circuitos logicos diferentes e saidas iguais
+D)	Circuitos logicos e saidas diferentes
+c
+
+Quanto eh 1D em decimal?
+A)	170
+B)	29
+C)	13
+D)	42
+a
+
+Qual o maximo de saidas que uma porta logica pode ter?
+A)	Nenhuma
+B)	1
+C)	2
+D)	3
+b
+
+Qual o ultimo Teorema Booleano?
+A)	(14)
+B)	(20)
+C)	(13a)
+D)	(15b)
+d
+
+Em um circuito cujas entradas sejam X e 1 e que passe por uma porta logica OR, qual sera a saida?
+A)	Nenhuma das alternativa
+B)	0
+C)	1
+D)	X
+c
+
+Em um circuito cujas entradas sejam X e 1 e que passe por uma porta logica AND, qual sera a saida?
+A)	Nenhuma
+B)	0
+C)	1
+D)	X
+d
+
+Qual a funcao da porta logica NOT?
+A)	Continuar o sinal recebido
+B)	Aumentar a forca do sinal recebido
+C)	Negar a entrada recebida
+D)	Nenhuma das alternativas
+c
+
+Qual teorema explica como tratar expressoes nas quais o produto ou uma soma de variaveis aparecem negados?
+A)	Mapa de Karnaugh
+B)	Teorema DeMorgan
+C)	Teorema Booleano
+D)	Nenhumas das alternativas
+b
+
+Como sao diferenciados os bits 0 e 1 em um circuito logico?
+A)	Sao transmitidas tensoes eletricas diferentes de acordo com o sinal que passa
+B)	O circuito transmite sinais 0 e 1
+C)	O circuito transmite o valor de 1 volt para o sinal 1 e 0 volt para o sinal 0
+D)	Os sinais 0  e 1 sao apenas ilustrativos, nada acontece no circuito
+a
+
+Existe uma quantidade maxima de entradas para uma porta logica?
+A)	Sim, depende do numero de portas logicas totais
+B)	Nao existe
+C)	99.10 elevado a 3
+D)	64
+b
+
+Para que serve o Mapa-K?
+A)	Obter a equacao logica completa de um circuito
+B)	Obter outra forma de tabela verdade
+C)	Obter a equacao logica simplificada de um circuito
+D)	Facilitar a simplificacao manual de circuitos com mais de 6 variaveis
+c
+
+Qual eh a funcao do Flip-Flop?
+A)	Armazenar uma memoria em alta ou baixa queda de sinal
+B)	Somar numeros quaisquer
+C)	Multiplicar numeros quaisquer
+D)	Decodificar uma mensagem
+a
+
+Quais linhas da saida de uma tabela verdade serao utilizadas para criar a expressao logica?
+A) Todas as iguais a 0
+B) Todas as iguais a 1
+C) Todas as linhas
+D) Apenas a primeira linha
+b
+
+Uma tabela verdade com 3 variaveis possui quantas linhas?
+A) 8
+B) 6
+C) 4
+D) 12
+a
+
+Qual peca do computador possui mais portas logicas?
+A) HD
+B) Memoria RAM
+C) Processador
+D) Placa Mae
+c
+
+Circuito eh um conjunto de:
+A) Fios
+B) Corrente eletrica
+C) Portas-logicas
+D) Nenhuma das alternativas
+c
+
+Circuitos logicos sequenciais sao geralmente usados em:
+A) Memorias
+B) Monitoramento espacial
+C) Fonte
+D) Nenhuma das alternativas
+a
+
+Durante as aulas de arquiteturas, qual software foi utilizado na montagem de circuitos?
+A) Pycharm
+B) Logisim
+C) Adobe
+D) Excel
+b
+
+Uma porta AND so sera aberta quando:
+A) Somente uma das entradas for igual a 1
+B) Quando todas entradas forem 0
+C) Quando todas as entradas forem 1
+D) Nenhuma das alternativas
+c
+
+Quais sao as 3 principais tarefas de um ciclo do instrucao?
+A - Buscar, Executar e interromper
+B - Ler, Executar e Deletar
+C - Buscar, Selecionar e ver as proximas tarefas
+D - Interromper, Buscar e Executar
+a
+
+Quais sao as duas principais Arquiteturas de computadores mais conhecidas?
+A - x86 Intel e ARM
+B - RISC e CISC
+C - Windows e Mac
+D - Nenhuma das alternativas
+b
+
+Caracteristica da Arquitetura CISC
+A - Conjunto de instrucoes complexas
+B - Conjunto de instrucoes reduzidas
+C - Eh mais rapida
+D - Eh mais lenta
+a
+
+Caracteristica da Arquitetura RISC
+A - Conjunto de instrucoes complexas
+B - Conjunto de instrucoes reduzidas
+C - Eh mais rapida
+D - Eh mais lenta
+b
+
+Qual foi a chave para a capacidade e a velocidade dos transistores do processador?
+A - Miniaturizacao
+B - Aumentar o tamanho
+C - Melhorar o core
+D - Melhorar os barramentos
+a
+
+O que significada a sigla RAM?
+A - Memoria de Acesso Rapido
+B - Memoria Principal
+C - Random Access Memory
+D - Nenhuma das alternativas
+c
+
+O que sao barramentos?
+A - Linhas de comunicacao
+B - Uma barreira de dados
+C - Um protocolo para barrar
+D - Um protocolo para interromper
+a
+
+Quais sao mais principais informacoes que o barramento traz?
+A - Variaveis Booleanas
+B - Dados, Endereco e Controle
+C - Endereco onde os dados se localizam
+D - Nenhuma das Alternativas
+b
+
+O que eh um SMP?
+A - Multi Processamento Simetrico
+B - Pseudoparalelismo
+C - Multiprogramacao
+D - Muitos processos
+a
+
+O que sao Clusters?
+A - Um Computador simetrico separadamente
+B - Um grupo de computadores completos, conectados e trabalhando juntos
+C - Simetria computacional
+D - Nenhuma das Alternativas
+b
+
+O que eh multiprogramacao?
+A - A CPU trabalha em varios programas que forma que pareca simultanea
+B - Varios programadores fazendo um programa
+C - Paralelismo real
+D - Nenhuma das alternativas
+a
+
+Nos computadores convencionais, qual a quantidade de bits de processamento maximo?
+A - 258 bits
+B - 128 bits
+C - 64 bits
+D - 32 bits
+c
+
+Qual eh a relacao computacional entre capacidade de memoria e acesso de dados?
+A - Quanto menor a capacidade da memoria mais rapido eh a velocidade de acesso
+B - Quanto maior a capacidade da memoria mais rapido eh a velocidade de acesso
+C - Nao tem relacao
+D - Nenhuma dessas alternativas representam uma relacao coerente
+a
+
+O que permite que um cluster possa ser visto como uma imagem unificada?
+A - SMT
+B - MESI
+C - Middleware
+D - Escalabilidade
+c
+
+Qual desses nao eh um beneficio de um cluster?
+A - Alta disponibilidade
+B - Escalabilidade incremental
+C - Escalabilidade absoluta
+D - Todas sao beneficios de um cluster
+d
+
+Qual a funcao do protocolo MESI?
+A - Bloquear a comunicacao com a RAM, caso necessario
+B - Impedir que um dado seja modificado
+C - Impedir a incoerencia de dados na cache
+D - Melhorar a comunicacao entre RAM e um sistema multiprocessador
+c
+
+Qual desses nao eh um exemplo de memoria secundaria?
+A - Disco rigido
+B - RAM
+C - Cartao de memoria
+D - Pendrive
+b
+
+A memoria Cache deve conter, obrigatoriamente:
+A - Uma coluna TAG
+B - Tres colunas de Dados
+C - 5 Linhas
+D - Um numero ilimitado de colunas
+a
+
+Resumidamente, qual eh a funcao de um pipeline?
+A - Melhorar o processamento do computador
+B - Agilizar o processo de um conjunto de tarefas
+C - Tuna sua maquina temporariamente
+D - Deixa o processador mais ocioso
+b
+
+Quais as funcoes principais da Memoria?
+A - Armazenar\Escrever e Recuperar\Ler
+B - Processar e Ler
+C - Ler e Recuperar
+D - Escrever e Armazenar
+a
+
+Qual das opcoes representa a ordem correta de velocidade de acesso? (Da menor para a maior velocidade).
+A - Memoria cache, registradores, memoria principal, memoria secundaria
+B - Memoria secundaria, memoria principal, memoria cache, registradores
+C - Memoria principal, memoria secundaria, memoria cache, registradores
+D - Memoria secundaria, memoria principal, registradores, memoria cache
+b
